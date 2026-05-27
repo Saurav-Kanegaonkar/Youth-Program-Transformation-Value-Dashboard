@@ -1,0 +1,141 @@
+scenario_id,site_id,scenario_name,attendance_lift_pp,staff_coverage_lift_pp,cost_change_pct,weekly_hours_saved,confidence,site_name,market,projected_attendance_rate,projected_staff_coverage_rate,weekly_students_gained,annualized_value_usd
+SITE-022-attendance-push,SITE-022,Attendance push,0.063,0.014,0.02,4.2,0.81,Staten Island Youth Hub 2,Staten Island,0.842,0.804,20.0,23055.0
+SITE-013-attendance-push,SITE-013,Attendance push,0.055,0.007,0.021,4.1,0.63,Northern Queens Youth Hub 3,Northern Queens,0.83,0.837,19.9,22704.0
+SITE-003-attendance-push,SITE-003,Attendance push,0.061,0.011,0.02,4.1,0.94,South Bronx Youth Hub 3,South Bronx,0.714,0.848,17.2,20752.0
+SITE-023-bi-automation,SITE-023,BI automation,0.02,0.023,-0.017,8.4,0.48,Staten Island Youth Hub 3,Staten Island,0.762,0.87,4.5,20374.0
+SITE-009-attendance-push,SITE-009,Attendance push,0.062,0.013,0.015,4.3,0.87,Central Brooklyn Youth Hub 4,Central Brooklyn,0.795,0.835,15.5,19973.0
+SITE-008-attendance-push,SITE-008,Attendance push,0.056,0.011,0.014,4.3,0.72,Central Brooklyn Youth Hub 3,Central Brooklyn,0.69,0.879,15.3,19876.0
+SITE-006-attendance-push,SITE-006,Attendance push,0.063,0.009,0.015,4.2,0.92,Central Brooklyn Youth Hub 1,Central Brooklyn,0.724,0.837,15.6,19871.0
+SITE-005-attendance-push,SITE-005,Attendance push,0.064,0.009,0.023,3.0,0.47,South Bronx Youth Hub 5,South Bronx,0.731,0.842,18.8,19715.0
+SITE-020-bi-automation,SITE-020,BI automation,0.021,0.026,-0.012,8.3,0.87,Upper Manhattan Youth Hub 5,Upper Manhattan,0.676,0.858,3.9,19634.0
+SITE-018-attendance-push,SITE-018,Attendance push,0.058,0.008,0.02,3.9,0.65,Upper Manhattan Youth Hub 3,Upper Manhattan,0.735,0.843,16.1,19561.0
+SITE-022-bi-automation,SITE-022,BI automation,0.02,0.024,-0.011,7.3,0.61,Staten Island Youth Hub 2,Staten Island,0.799,0.814,6.4,19470.0
+SITE-025-bi-automation,SITE-025,BI automation,0.026,0.027,-0.01,7.7,0.61,Staten Island Youth Hub 5,Staten Island,0.761,0.893,5.3,19399.0
+SITE-015-bi-automation,SITE-015,BI automation,0.025,0.021,-0.01,7.7,0.8,Northern Queens Youth Hub 5,Northern Queens,0.745,0.81,5.3,19397.0
+SITE-002-bi-automation,SITE-002,BI automation,0.022,0.021,-0.016,8.2,0.83,South Bronx Youth Hub 2,South Bronx,0.692,0.914,3.7,19316.0
+SITE-018-bi-automation,SITE-018,BI automation,0.013,0.02,-0.014,8.2,0.76,Upper Manhattan Youth Hub 3,Upper Manhattan,0.69,0.855,3.6,19215.0
+SITE-003-bi-automation,SITE-003,BI automation,0.013,0.022,-0.008,8.2,0.6,South Bronx Youth Hub 3,South Bronx,0.666,0.859,3.7,19141.0
+SITE-011-bi-automation,SITE-011,BI automation,0.022,0.014,-0.017,8.2,0.89,Northern Queens Youth Hub 1,Northern Queens,0.675,0.872,3.2,18978.0
+SITE-006-bi-automation,SITE-006,BI automation,0.012,0.018,-0.016,8.3,0.66,Central Brooklyn Youth Hub 1,Central Brooklyn,0.673,0.846,3.0,18961.0
+SITE-019-attendance-push,SITE-019,Attendance push,0.051,0.008,0.014,4.2,0.63,Upper Manhattan Youth Hub 4,Upper Manhattan,0.688,0.865,14.0,18655.0
+SITE-007-bi-automation,SITE-007,BI automation,0.025,0.021,-0.016,8.0,0.89,Central Brooklyn Youth Hub 2,Central Brooklyn,0.661,0.872,3.3,18590.0
+SITE-019-bi-automation,SITE-019,BI automation,0.012,0.021,-0.007,8.0,0.77,Upper Manhattan Youth Hub 4,Upper Manhattan,0.649,0.878,3.3,18435.0
+SITE-021-bi-automation,SITE-021,BI automation,0.021,0.024,-0.016,7.6,0.76,Staten Island Youth Hub 1,Staten Island,0.797,0.855,4.1,18404.0
+SITE-024-bi-automation,SITE-024,BI automation,0.017,0.024,-0.006,7.9,0.48,Staten Island Youth Hub 4,Staten Island,0.754,0.893,3.4,18317.0
+SITE-017-bi-automation,SITE-017,BI automation,0.024,0.027,-0.014,6.7,0.67,Upper Manhattan Youth Hub 2,Upper Manhattan,0.741,0.867,6.1,18159.0
+SITE-009-bi-automation,SITE-009,BI automation,0.022,0.028,-0.015,6.8,0.62,Central Brooklyn Youth Hub 4,Central Brooklyn,0.755,0.85,5.5,17881.0
+SITE-016-bi-automation,SITE-016,BI automation,0.022,0.015,-0.017,7.6,0.69,Upper Manhattan Youth Hub 1,Upper Manhattan,0.722,0.878,3.1,17688.0
+SITE-005-bi-automation,SITE-005,BI automation,0.014,0.028,-0.017,7.2,0.78,South Bronx Youth Hub 5,South Bronx,0.681,0.861,4.1,17640.0
+SITE-017-attendance-push,SITE-017,Attendance push,0.063,0.02,0.02,2.9,0.69,Upper Manhattan Youth Hub 2,Upper Manhattan,0.78,0.86,16.1,17628.0
+SITE-013-bi-automation,SITE-013,BI automation,0.013,0.02,-0.013,7.0,0.65,Northern Queens Youth Hub 3,Northern Queens,0.788,0.85,4.7,17625.0
+SITE-004-bi-automation,SITE-004,BI automation,0.013,0.021,-0.006,8.1,0.71,South Bronx Youth Hub 4,South Bronx,0.756,0.888,2.0,17602.0
+SITE-014-bi-automation,SITE-014,BI automation,0.016,0.024,-0.009,8.0,0.74,Northern Queens Youth Hub 4,Northern Queens,0.695,0.85,2.0,17508.0
+SITE-001-bi-automation,SITE-001,BI automation,0.025,0.023,-0.015,7.2,0.61,South Bronx Youth Hub 1,South Bronx,0.774,0.88,3.5,17121.0
+SITE-027-bi-automation,SITE-027,BI automation,0.012,0.014,-0.007,7.9,0.77,Anchorage Launch Youth Hub 2,Anchorage Launch,0.716,0.829,1.6,16978.0
+SITE-026-bi-automation,SITE-026,BI automation,0.026,0.018,-0.011,7.8,0.84,Anchorage Launch Youth Hub 1,Anchorage Launch,0.746,0.835,1.7,16881.0
+SITE-015-attendance-push,SITE-015,Attendance push,0.058,0.013,0.016,3.9,0.71,Northern Queens Youth Hub 5,Northern Queens,0.778,0.802,12.2,16692.0
+SITE-010-bi-automation,SITE-010,BI automation,0.018,0.023,-0.01,7.0,0.83,Central Brooklyn Youth Hub 5,Central Brooklyn,0.733,0.876,3.3,16499.0
+SITE-008-bi-automation,SITE-008,BI automation,0.013,0.025,-0.012,6.7,0.74,Central Brooklyn Youth Hub 3,Central Brooklyn,0.647,0.893,3.6,16138.0
+SITE-021-attendance-push,SITE-021,Attendance push,0.059,0.009,0.014,3.7,0.78,Staten Island Youth Hub 1,Staten Island,0.835,0.84,11.4,15786.0
+SITE-028-bi-automation,SITE-028,BI automation,0.021,0.015,-0.016,6.9,0.77,Anchorage Launch Youth Hub 3,Anchorage Launch,0.758,0.821,2.0,15377.0
+SITE-012-bi-automation,SITE-012,BI automation,0.014,0.027,-0.016,6.8,0.78,Northern Queens Youth Hub 2,Northern Queens,0.786,0.892,1.9,15100.0
+SITE-002-attendance-push,SITE-002,Attendance push,0.056,0.006,0.023,4.2,0.54,South Bronx Youth Hub 2,South Bronx,0.726,0.899,9.4,15094.0
+SITE-023-attendance-push,SITE-023,Attendance push,0.056,0.012,0.015,2.7,0.6,Staten Island Youth Hub 3,Staten Island,0.798,0.859,12.7,14729.0
+SITE-025-attendance-push,SITE-025,Attendance push,0.06,0.02,0.015,2.9,0.67,Staten Island Youth Hub 5,Staten Island,0.795,0.886,12.1,14717.0
+SITE-012-attendance-push,SITE-012,Attendance push,0.061,0.01,0.013,4.2,0.79,Northern Queens Youth Hub 2,Northern Queens,0.833,0.875,8.2,14323.0
+SITE-011-attendance-push,SITE-011,Attendance push,0.06,0.019,0.018,3.9,0.44,Northern Queens Youth Hub 1,Northern Queens,0.713,0.877,8.8,14150.0
+SITE-010-attendance-push,SITE-010,Attendance push,0.05,0.01,0.018,3.5,0.75,Central Brooklyn Youth Hub 5,Central Brooklyn,0.765,0.863,9.2,13620.0
+SITE-024-attendance-push,SITE-024,Attendance push,0.057,0.013,0.023,2.6,0.58,Staten Island Youth Hub 4,Staten Island,0.794,0.882,11.5,13526.0
+SITE-016-attendance-push,SITE-016,Attendance push,0.056,0.019,0.017,3.9,0.72,Upper Manhattan Youth Hub 1,Upper Manhattan,0.756,0.882,8.0,13516.0
+SITE-001-attendance-push,SITE-001,Attendance push,0.062,0.018,0.015,3.6,0.71,South Bronx Youth Hub 1,South Bronx,0.811,0.875,8.6,13458.0
+SITE-020-attendance-push,SITE-020,Attendance push,0.055,0.016,0.02,2.9,0.6,Upper Manhattan Youth Hub 5,Upper Manhattan,0.71,0.848,10.3,13317.0
+SITE-004-attendance-push,SITE-004,Attendance push,0.049,0.019,0.017,3.6,0.79,South Bronx Youth Hub 4,South Bronx,0.792,0.886,7.4,12520.0
+SITE-007-attendance-push,SITE-007,Attendance push,0.051,0.01,0.013,3.8,0.87,Central Brooklyn Youth Hub 2,Central Brooklyn,0.687,0.861,6.7,12423.0
+SITE-014-attendance-push,SITE-014,Attendance push,0.052,0.019,0.021,3.8,0.79,Northern Queens Youth Hub 4,Northern Queens,0.731,0.845,6.6,12265.0
+SITE-027-attendance-push,SITE-027,Attendance push,0.055,0.011,0.019,3.3,0.88,Anchorage Launch Youth Hub 2,Anchorage Launch,0.759,0.826,7.5,12015.0
+SITE-019-staff-coverage-sprint,SITE-019,Staff coverage sprint,0.03,0.064,0.027,2.8,0.71,Upper Manhattan Youth Hub 4,Upper Manhattan,0.667,0.921,8.2,11462.0
+SITE-028-attendance-push,SITE-028,Attendance push,0.06,0.017,0.017,3.6,0.88,Anchorage Launch Youth Hub 3,Anchorage Launch,0.797,0.823,5.6,11206.0
+SITE-023-staff-coverage-sprint,SITE-023,Staff coverage sprint,0.033,0.066,0.03,2.8,0.56,Staten Island Youth Hub 3,Staten Island,0.775,0.913,7.5,10865.0
+SITE-026-attendance-push,SITE-026,Attendance push,0.05,0.011,0.012,4.2,0.64,Anchorage Launch Youth Hub 1,Anchorage Launch,0.77,0.828,3.3,10640.0
+SITE-005-wellness-expansion,SITE-005,Wellness expansion,0.03,0.023,0.033,2.1,0.94,South Bronx Youth Hub 5,South Bronx,0.697,0.856,8.8,10473.0
+SITE-005-staff-coverage-sprint,SITE-005,Staff coverage sprint,0.028,0.065,0.03,2.3,0.66,South Bronx Youth Hub 5,South Bronx,0.695,0.898,8.2,10456.0
+SITE-013-staff-coverage-sprint,SITE-013,Staff coverage sprint,0.027,0.06,0.034,1.7,0.54,Northern Queens Youth Hub 3,Northern Queens,0.802,0.89,9.7,10401.0
+SITE-024-staff-coverage-sprint,SITE-024,Staff coverage sprint,0.032,0.069,0.034,2.9,0.79,Staten Island Youth Hub 4,Staten Island,0.769,0.938,6.4,10258.0
+SITE-020-staff-coverage-sprint,SITE-020,Staff coverage sprint,0.032,0.06,0.028,3.0,0.89,Upper Manhattan Youth Hub 5,Upper Manhattan,0.687,0.892,6.0,10206.0
+SITE-022-staff-coverage-sprint,SITE-022,Staff coverage sprint,0.03,0.067,0.027,1.6,0.77,Staten Island Youth Hub 2,Staten Island,0.809,0.857,9.5,10131.0
+SITE-018-staff-coverage-sprint,SITE-018,Staff coverage sprint,0.022,0.065,0.033,2.9,0.79,Upper Manhattan Youth Hub 3,Upper Manhattan,0.699,0.9,6.1,10036.0
+SITE-008-wellness-expansion,SITE-008,Wellness expansion,0.026,0.012,0.032,2.3,0.81,Central Brooklyn Youth Hub 3,Central Brooklyn,0.66,0.88,7.1,9640.0
+SITE-007-staff-coverage-sprint,SITE-007,Staff coverage sprint,0.033,0.07,0.023,3.3,0.75,Central Brooklyn Youth Hub 2,Central Brooklyn,0.669,0.921,4.3,9581.0
+SITE-006-staff-coverage-sprint,SITE-006,Staff coverage sprint,0.034,0.066,0.032,1.6,0.93,Central Brooklyn Youth Hub 1,Central Brooklyn,0.695,0.894,8.4,9264.0
+SITE-022-wellness-expansion,SITE-022,Wellness expansion,0.028,0.017,0.036,1.4,0.66,Staten Island Youth Hub 2,Staten Island,0.807,0.807,8.9,9190.0
+SITE-008-staff-coverage-sprint,SITE-008,Staff coverage sprint,0.022,0.064,0.032,2.4,0.93,Central Brooklyn Youth Hub 3,Central Brooklyn,0.656,0.932,6.0,9025.0
+SITE-015-staff-coverage-sprint,SITE-015,Staff coverage sprint,0.021,0.059,0.03,3.0,0.67,Northern Queens Youth Hub 5,Northern Queens,0.741,0.848,4.4,9001.0
+SITE-021-staff-coverage-sprint,SITE-021,Staff coverage sprint,0.027,0.061,0.025,2.6,0.62,Staten Island Youth Hub 1,Staten Island,0.803,0.892,5.2,8891.0
+SITE-018-wellness-expansion,SITE-018,Wellness expansion,0.029,0.023,0.032,1.5,0.7,Upper Manhattan Youth Hub 3,Upper Manhattan,0.706,0.858,8.1,8800.0
+SITE-009-staff-coverage-sprint,SITE-009,Staff coverage sprint,0.028,0.07,0.024,1.8,0.75,Central Brooklyn Youth Hub 4,Central Brooklyn,0.761,0.892,7.0,8664.0
+SITE-017-wellness-expansion,SITE-017,Wellness expansion,0.026,0.016,0.033,1.9,0.8,Upper Manhattan Youth Hub 2,Upper Manhattan,0.743,0.856,6.7,8522.0
+SITE-009-wellness-expansion,SITE-009,Wellness expansion,0.028,0.02,0.035,1.6,0.75,Central Brooklyn Youth Hub 4,Central Brooklyn,0.761,0.842,7.0,8185.0
+SITE-024-wellness-expansion,SITE-024,Wellness expansion,0.025,0.021,0.029,2.3,0.81,Staten Island Youth Hub 4,Staten Island,0.762,0.89,5.0,8121.0
+SITE-001-staff-coverage-sprint,SITE-001,Staff coverage sprint,0.032,0.06,0.029,2.5,0.78,South Bronx Youth Hub 1,South Bronx,0.781,0.917,4.4,8079.0
+SITE-003-staff-coverage-sprint,SITE-003,Staff coverage sprint,0.02,0.064,0.028,2.0,0.75,South Bronx Youth Hub 3,South Bronx,0.673,0.901,5.6,8008.0
+SITE-027-staff-coverage-sprint,SITE-027,Staff coverage sprint,0.032,0.065,0.023,2.4,0.75,Anchorage Launch Youth Hub 2,Anchorage Launch,0.736,0.88,4.4,7889.0
+SITE-010-staff-coverage-sprint,SITE-010,Staff coverage sprint,0.029,0.059,0.023,2.0,0.71,Central Brooklyn Youth Hub 5,Central Brooklyn,0.744,0.912,5.3,7802.0
+SITE-012-staff-coverage-sprint,SITE-012,Staff coverage sprint,0.032,0.071,0.033,2.4,0.78,Northern Queens Youth Hub 2,Northern Queens,0.804,0.936,4.3,7737.0
+SITE-017-staff-coverage-sprint,SITE-017,Staff coverage sprint,0.021,0.068,0.027,1.9,0.66,Upper Manhattan Youth Hub 2,Upper Manhattan,0.738,0.908,5.4,7628.0
+SITE-025-staff-coverage-sprint,SITE-025,Staff coverage sprint,0.028,0.063,0.022,1.7,0.7,Staten Island Youth Hub 5,Staten Island,0.763,0.929,5.7,7489.0
+SITE-021-wellness-expansion,SITE-021,Wellness expansion,0.031,0.02,0.037,1.6,0.8,Staten Island Youth Hub 1,Staten Island,0.807,0.851,6.0,7446.0
+SITE-006-wellness-expansion,SITE-006,Wellness expansion,0.025,0.021,0.037,1.5,0.81,Central Brooklyn Youth Hub 1,Central Brooklyn,0.686,0.849,6.2,7392.0
+SITE-019-wellness-expansion,SITE-019,Wellness expansion,0.02,0.015,0.036,1.7,0.63,Upper Manhattan Youth Hub 4,Upper Manhattan,0.657,0.872,5.5,7253.0
+SITE-025-wellness-expansion,SITE-025,Wellness expansion,0.03,0.021,0.033,1.4,0.84,Staten Island Youth Hub 5,Staten Island,0.765,0.887,6.1,7129.0
+SITE-013-wellness-expansion,SITE-013,Wellness expansion,0.023,0.022,0.033,0.5,0.78,Northern Queens Youth Hub 3,Northern Queens,0.798,0.852,8.3,7057.0
+SITE-011-staff-coverage-sprint,SITE-011,Staff coverage sprint,0.032,0.067,0.029,1.8,0.89,Northern Queens Youth Hub 1,Northern Queens,0.685,0.925,4.7,6925.0
+SITE-020-wellness-expansion,SITE-020,Wellness expansion,0.022,0.019,0.029,2.0,0.86,Upper Manhattan Youth Hub 5,Upper Manhattan,0.677,0.851,4.1,6890.0
+SITE-023-wellness-expansion,SITE-023,Wellness expansion,0.031,0.014,0.038,0.7,0.77,Staten Island Youth Hub 3,Staten Island,0.773,0.861,7.0,6453.0
+SITE-004-wellness-expansion,SITE-004,Wellness expansion,0.018,0.012,0.036,2.3,0.78,South Bronx Youth Hub 4,South Bronx,0.761,0.879,2.7,6373.0
+SITE-004-staff-coverage-sprint,SITE-004,Staff coverage sprint,0.024,0.061,0.03,1.9,0.83,South Bronx Youth Hub 4,South Bronx,0.767,0.928,3.6,6313.0
+SITE-014-staff-coverage-sprint,SITE-014,Staff coverage sprint,0.02,0.066,0.026,2.3,0.72,Northern Queens Youth Hub 4,Northern Queens,0.699,0.892,2.5,6307.0
+SITE-007-wellness-expansion,SITE-007,Wellness expansion,0.029,0.014,0.029,1.8,0.56,Central Brooklyn Youth Hub 2,Central Brooklyn,0.665,0.865,3.8,6257.0
+SITE-016-staff-coverage-sprint,SITE-016,Staff coverage sprint,0.024,0.063,0.029,1.8,0.69,Upper Manhattan Youth Hub 1,Upper Manhattan,0.724,0.926,3.4,5969.0
+SITE-027-wellness-expansion,SITE-027,Wellness expansion,0.03,0.016,0.037,1.5,0.8,Anchorage Launch Youth Hub 2,Anchorage Launch,0.734,0.831,4.1,5862.0
+SITE-003-wellness-expansion,SITE-003,Wellness expansion,0.017,0.018,0.03,1.2,0.59,South Bronx Youth Hub 3,South Bronx,0.67,0.855,4.8,5834.0
+SITE-014-wellness-expansion,SITE-014,Wellness expansion,0.022,0.02,0.041,2.0,0.61,Northern Queens Youth Hub 4,Northern Queens,0.701,0.846,2.8,5826.0
+SITE-002-wellness-expansion,SITE-002,Wellness expansion,0.024,0.017,0.032,1.4,0.57,South Bronx Youth Hub 2,South Bronx,0.694,0.91,4.0,5644.0
+SITE-012-wellness-expansion,SITE-012,Wellness expansion,0.023,0.01,0.03,1.7,0.9,Northern Queens Youth Hub 2,Northern Queens,0.795,0.875,3.1,5530.0
+SITE-002-staff-coverage-sprint,SITE-002,Staff coverage sprint,0.02,0.068,0.033,1.6,0.54,South Bronx Youth Hub 2,South Bronx,0.69,0.961,3.4,5527.0
+SITE-028-staff-coverage-sprint,SITE-028,Staff coverage sprint,0.026,0.064,0.033,1.8,0.58,Anchorage Launch Youth Hub 3,Anchorage Launch,0.763,0.87,2.4,5236.0
+SITE-026-wellness-expansion,SITE-026,Wellness expansion,0.026,0.01,0.033,1.9,0.87,Anchorage Launch Youth Hub 1,Anchorage Launch,0.746,0.827,1.7,4873.0
+SITE-010-wellness-expansion,SITE-010,Wellness expansion,0.017,0.02,0.032,1.3,0.54,Central Brooklyn Youth Hub 5,Central Brooklyn,0.732,0.873,3.1,4775.0
+SITE-026-staff-coverage-sprint,SITE-026,Staff coverage sprint,0.029,0.064,0.031,1.6,0.73,Anchorage Launch Youth Hub 1,Anchorage Launch,0.749,0.881,1.9,4452.0
+SITE-001-wellness-expansion,SITE-001,Wellness expansion,0.03,0.017,0.038,0.6,0.72,South Bronx Youth Hub 1,South Bronx,0.779,0.874,4.2,4189.0
+SITE-011-wellness-expansion,SITE-011,Wellness expansion,0.028,0.015,0.037,0.6,0.66,Northern Queens Youth Hub 1,Northern Queens,0.681,0.873,4.1,4154.0
+SITE-015-wellness-expansion,SITE-015,Wellness expansion,0.019,0.011,0.036,0.6,0.72,Northern Queens Youth Hub 5,Northern Queens,0.739,0.8,4.0,4066.0
+SITE-010-baseline,SITE-010,Baseline,0.008,0.0,-0.005,1.3,0.65,Central Brooklyn Youth Hub 5,Central Brooklyn,0.723,0.853,1.5,3700.0
+SITE-028-wellness-expansion,SITE-028,Wellness expansion,0.017,0.014,0.037,1.1,0.73,Anchorage Launch Youth Hub 3,Anchorage Launch,0.754,0.82,1.6,3263.0
+SITE-016-wellness-expansion,SITE-016,Wellness expansion,0.02,0.023,0.04,0.6,0.58,Upper Manhattan Youth Hub 1,Upper Manhattan,0.72,0.886,2.8,3210.0
+SITE-011-baseline,SITE-011,Baseline,0.007,-0.001,0.0,0.9,0.5,Northern Queens Youth Hub 1,Northern Queens,0.66,0.857,1.0,2560.0
+SITE-013-baseline,SITE-013,Baseline,0.009,-0.003,-0.002,0,0.94,Northern Queens Youth Hub 3,Northern Queens,0.784,0.827,3.2,2474.0
+SITE-005-baseline,SITE-005,Baseline,0.006,0.001,-0.0,0.4,0.8,South Bronx Youth Hub 5,South Bronx,0.673,0.834,1.8,2126.0
+SITE-004-baseline,SITE-004,Baseline,0.007,0.007,-0.005,0.6,0.85,South Bronx Youth Hub 4,South Bronx,0.75,0.874,1.1,1999.0
+SITE-021-baseline,SITE-021,Baseline,0.004,-0.001,-0.006,0.7,0.59,Staten Island Youth Hub 1,Staten Island,0.78,0.83,0.8,1985.0
+SITE-016-baseline,SITE-016,Baseline,0.009,-0.003,0.001,0.5,0.42,Upper Manhattan Youth Hub 1,Upper Manhattan,0.709,0.86,1.3,1957.0
+SITE-027-baseline,SITE-027,Baseline,0.009,-0.0,-0.005,0.5,0.79,Anchorage Launch Youth Hub 2,Anchorage Launch,0.713,0.815,1.2,1935.0
+SITE-003-baseline,SITE-003,Baseline,-0.003,0.005,-0.005,0.7,0.72,South Bronx Youth Hub 3,South Bronx,0.65,0.842,0,1390.0
+SITE-001-baseline,SITE-001,Baseline,0.0,0.003,-0.001,0.7,0.47,South Bronx Youth Hub 1,South Bronx,0.749,0.86,0,1385.0
+SITE-017-baseline,SITE-017,Baseline,0.007,0.005,0.004,0,0.93,Upper Manhattan Youth Hub 2,Upper Manhattan,0.724,0.845,1.8,1356.0
+SITE-018-baseline,SITE-018,Baseline,0.006,0.004,-0.001,0,0.72,Upper Manhattan Youth Hub 3,Upper Manhattan,0.683,0.839,1.7,1269.0
+SITE-019-baseline,SITE-019,Baseline,0.005,0.0,-0.002,0,0.81,Upper Manhattan Youth Hub 4,Upper Manhattan,0.642,0.857,1.4,1043.0
+SITE-026-baseline,SITE-026,Baseline,-0.006,-0.002,-0.005,0.5,0.61,Anchorage Launch Youth Hub 1,Anchorage Launch,0.714,0.815,0,993.0
+SITE-023-baseline,SITE-023,Baseline,-0.005,-0.005,-0.003,0.5,0.77,Staten Island Youth Hub 3,Staten Island,0.737,0.842,0,991.0
+SITE-008-baseline,SITE-008,Baseline,0.004,-0.0,-0.003,0,0.82,Central Brooklyn Youth Hub 3,Central Brooklyn,0.638,0.868,1.1,835.0
+SITE-015-baseline,SITE-015,Baseline,-0.006,-0.002,-0.005,0.4,0.86,Northern Queens Youth Hub 5,Northern Queens,0.714,0.787,0,794.0
+SITE-024-baseline,SITE-024,Baseline,0.005,0.002,-0.005,0,0.63,Staten Island Youth Hub 4,Staten Island,0.742,0.871,1.0,768.0
+SITE-012-baseline,SITE-012,Baseline,0.006,-0.006,-0.005,0,0.79,Northern Queens Youth Hub 2,Northern Queens,0.778,0.859,0.8,614.0
+SITE-002-baseline,SITE-002,Baseline,-0.004,0.006,-0.004,0.3,0.91,South Bronx Youth Hub 2,South Bronx,0.666,0.899,0,595.0
+SITE-025-baseline,SITE-025,Baseline,0.001,0.001,-0.002,0.2,0.94,Staten Island Youth Hub 5,Staten Island,0.736,0.867,0.2,550.0
+SITE-022-baseline,SITE-022,Baseline,0.002,0.004,0.0,0,0.69,Staten Island Youth Hub 2,Staten Island,0.781,0.794,0.6,483.0
+SITE-028-baseline,SITE-028,Baseline,-0.005,-0.004,0.005,0.2,0.71,Anchorage Launch Youth Hub 3,Anchorage Launch,0.732,0.802,0,393.0
+SITE-007-baseline,SITE-007,Baseline,-0.001,-0.004,-0.001,0.1,0.49,Central Brooklyn Youth Hub 2,Central Brooklyn,0.635,0.847,0,198.0
+SITE-009-baseline,SITE-009,Baseline,0.001,0.005,0.006,0,0.82,Central Brooklyn Youth Hub 4,Central Brooklyn,0.734,0.827,0.3,189.0
+SITE-006-baseline,SITE-006,Baseline,-0.005,0.007,-0.004,0,0.78,Central Brooklyn Youth Hub 1,Central Brooklyn,0.656,0.835,0,0.0
+SITE-014-baseline,SITE-014,Baseline,-0.004,0.004,0.002,0,0.76,Northern Queens Youth Hub 4,Northern Queens,0.675,0.83,0,0.0
+SITE-020-baseline,SITE-020,Baseline,0.0,-0.003,-0.003,0,0.61,Upper Manhattan Youth Hub 5,Upper Manhattan,0.655,0.829,0,0.0

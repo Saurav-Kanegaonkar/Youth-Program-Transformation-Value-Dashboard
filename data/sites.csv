@@ -1,0 +1,29 @@
+site_id,site_name,market_id,market,state,school_level,program_model,service_line,enrollment_capacity,partner_type,data_system,poverty_pressure,student_mobility_rate,launch_wave,site_owner
+SITE-001,South Bronx Youth Hub 1,MKT-01,South Bronx,NYC,Elementary,Academic Enrichment,Literacy and homework lab,171,Community school,Salesforce + DOE extract,0.64,0.121,Wave 2 stabilize,A. Rivera
+SITE-002,South Bronx Youth Hub 2,MKT-01,South Bronx,NYC,Middle,Music and Arts,Arts enrichment,227,Community school,Salesforce + DOE extract,0.64,0.137,Wave 2 stabilize,J. LaBeach
+SITE-003,South Bronx Youth Hub 3,MKT-01,South Bronx,NYC,Elementary,STEM and Coding,STEM project studio,391,Community school,Salesforce + DOE extract,0.64,0.134,Wave 3 pilot,J. LaBeach
+SITE-004,South Bronx Youth Hub 4,MKT-01,South Bronx,NYC,Elementary,Academic Enrichment,Literacy and homework lab,190,Community school,Salesforce + DOE extract,0.64,0.102,Wave 1 scale,A. Rivera
+SITE-005,South Bronx Youth Hub 5,MKT-01,South Bronx,NYC,High,STEM and Coding,STEM project studio,396,Community school,Salesforce + DOE extract,0.64,0.144,Wave 2 stabilize,M. Chen
+SITE-006,Central Brooklyn Youth Hub 1,MKT-02,Central Brooklyn,NYC,Elementary,STEM and Coding,STEM project studio,342,Beacon center,Airtable + SIS export,0.58,0.101,Wave 3 pilot,K. Patel
+SITE-007,Central Brooklyn Youth Hub 2,MKT-02,Central Brooklyn,NYC,Middle,College and Career,Career exposure and mentoring,180,Beacon center,Airtable + SIS export,0.58,0.099,Wave 2 stabilize,K. Patel
+SITE-008,Central Brooklyn Youth Hub 3,MKT-02,Central Brooklyn,NYC,High,College and Career,Career exposure and mentoring,376,Beacon center,Airtable + SIS export,0.58,0.11,Wave 2 stabilize,J. LaBeach
+SITE-009,Central Brooklyn Youth Hub 4,MKT-02,Central Brooklyn,NYC,Middle,Academic Enrichment,Literacy and homework lab,306,Beacon center,Airtable + SIS export,0.58,0.098,Wave 3 pilot,T. Williams
+SITE-010,Central Brooklyn Youth Hub 5,MKT-02,Central Brooklyn,NYC,High,Sports and Wellness,Youth fitness and team sports,230,Beacon center,Airtable + SIS export,0.58,0.124,Wave 1 scale,A. Rivera
+SITE-011,Northern Queens Youth Hub 1,MKT-03,Northern Queens,NYC,High,College and Career,Career exposure and mentoring,198,Expanded learning,PowerSchool export,0.48,0.104,Wave 1 scale,T. Williams
+SITE-012,Northern Queens Youth Hub 2,MKT-03,Northern Queens,NYC,High,Academic Enrichment,Literacy and homework lab,158,Expanded learning,PowerSchool export,0.48,0.092,Wave 1 scale,M. Chen
+SITE-013,Northern Queens Youth Hub 3,MKT-03,Northern Queens,NYC,High,Academic Enrichment,Literacy and homework lab,419,Expanded learning,PowerSchool export,0.48,0.086,Wave 3 pilot,J. LaBeach
+SITE-014,Northern Queens Youth Hub 4,MKT-03,Northern Queens,NYC,Middle,STEM and Coding,STEM project studio,168,Expanded learning,PowerSchool export,0.48,0.073,Wave 3 pilot,T. Williams
+SITE-015,Northern Queens Youth Hub 5,MKT-03,Northern Queens,NYC,High,Music and Arts,Arts enrichment,258,Expanded learning,PowerSchool export,0.48,0.071,Wave 3 pilot,A. Rivera
+SITE-016,Upper Manhattan Youth Hub 1,MKT-04,Upper Manhattan,NYC,Middle,Music and Arts,Arts enrichment,181,Community school,Google Sheets intake,0.62,0.123,Wave 1 scale,J. LaBeach
+SITE-017,Upper Manhattan Youth Hub 2,MKT-04,Upper Manhattan,NYC,Elementary,Sports and Wellness,Youth fitness and team sports,318,Community school,Google Sheets intake,0.62,0.142,Wave 2 stabilize,A. Rivera
+SITE-018,Upper Manhattan Youth Hub 3,MKT-04,Upper Manhattan,NYC,Middle,STEM and Coding,STEM project studio,366,Community school,Google Sheets intake,0.62,0.117,Wave 3 pilot,K. Patel
+SITE-019,Upper Manhattan Youth Hub 4,MKT-04,Upper Manhattan,NYC,High,STEM and Coding,STEM project studio,379,Community school,Google Sheets intake,0.62,0.133,Wave 2 stabilize,A. Rivera
+SITE-020,Upper Manhattan Youth Hub 5,MKT-04,Upper Manhattan,NYC,Elementary,STEM and Coding,STEM project studio,262,Community school,Google Sheets intake,0.62,0.153,Wave 3 pilot,A. Rivera
+SITE-021,Staten Island Youth Hub 1,MKT-05,Staten Island,NYC,Middle,Academic Enrichment,Literacy and homework lab,226,Sports partnership,Excel tracker,0.41,0.062,Wave 1 scale,T. Williams
+SITE-022,Staten Island Youth Hub 2,MKT-05,Staten Island,NYC,Elementary,Academic Enrichment,Literacy and homework lab,375,Sports partnership,Excel tracker,0.41,0.062,Wave 3 pilot,K. Patel
+SITE-023,Staten Island Youth Hub 3,MKT-05,Staten Island,NYC,High,Sports and Wellness,Youth fitness and team sports,284,Sports partnership,Excel tracker,0.41,0.074,Wave 1 scale,K. Patel
+SITE-024,Staten Island Youth Hub 4,MKT-05,Staten Island,NYC,Elementary,Sports and Wellness,Youth fitness and team sports,247,Sports partnership,Excel tracker,0.41,0.091,Wave 1 scale,A. Rivera
+SITE-025,Staten Island Youth Hub 5,MKT-05,Staten Island,NYC,High,Sports and Wellness,Youth fitness and team sports,254,Sports partnership,Excel tracker,0.41,0.078,Wave 2 stabilize,K. Patel
+SITE-026,Anchorage Launch Youth Hub 1,MKT-06,Anchorage Launch,AK,Middle,Sports and Wellness,Youth fitness and team sports,85,Pilot partner,Partner CSV intake,0.52,0.151,Wave 3 pilot,M. Chen
+SITE-027,Anchorage Launch Youth Hub 2,MKT-06,Anchorage Launch,AK,High,Sports and Wellness,Youth fitness and team sports,179,Pilot partner,Partner CSV intake,0.52,0.163,Wave 3 pilot,T. Williams
+SITE-028,Anchorage Launch Youth Hub 3,MKT-06,Anchorage Launch,AK,High,Academic Enrichment,Literacy and homework lab,113,Pilot partner,Partner CSV intake,0.52,0.163,Wave 3 pilot,K. Patel

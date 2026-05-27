@@ -6,49 +6,116 @@
   <title>Youth Program Transformation Value Dashboard</title>
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body style="--accent:#0f766e;--bg:#eefdf8">
-  <main class="shell">
-    <header class="hero">
+<body>
+  <main class="app-shell">
+    <header class="topbar">
       <div>
-        <p class="eyebrow">Scorecard / education program business value transformation and scenario tracking</p>
+        <p class="eyebrow">BVT analyst workbench</p>
         <h1>Youth Program Transformation Value Dashboard</h1>
       </div>
-      <aside>
-        <b>Purpose</b>
-        <span>Turn messy program initiative-level signals into a ranked operating artifact with recommendations a stakeholder can act on.</span>
-      </aside>
+      <nav class="view-tabs" aria-label="Dashboard views">
+        <button class="view-tab active" type="button" data-view="cockpit">Cockpit</button>
+        <button class="view-tab" type="button" data-view="queue">Queue</button>
+        <button class="view-tab" type="button" data-view="requirements">BI Requirements</button>
+        <button class="view-tab" type="button" data-view="scenarios">Scenarios</button>
+      </nav>
     </header>
-    <section class="metrics">
-      <article><span>Modeled rows</span><strong>6.0K+</strong><em>source-style</em></article>
-      <article><span>Ranked queue</span><strong>25</strong><em>program initiatives</em></article>
-      <article><span>Action pool</span><strong>220</strong><em>candidates</em></article>
-      <article><span>Review time</span><strong>-6 hrs</strong><em>weekly</em></article>
+
+    <section class="hero-grid" id="cockpit">
+      <article class="decision-panel">
+        <p class="eyebrow">Executive decision</p>
+        <h2 id="decision-title">Loading BVT decision brief</h2>
+        <p id="decision-copy"></p>
+        <div class="tag-row" id="decision-tags"></div>
+      </article>
+      <section class="metric-grid" id="metric-grid" aria-label="Portfolio metrics"></section>
     </section>
-    <section class="main-grid">
-      <article class="panel lead">
-        <p class="eyebrow">Metric ownership</p>
-        <h2>Priority queue</h2>
+
+    <section class="dashboard-grid">
+      <article class="panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Market readiness</p>
+            <h2>Transformation pressure</h2>
+          </div>
+          <span id="market-count"></span>
+        </div>
+        <div class="rank-list" id="market-list"></div>
+      </article>
+
+      <article class="panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Stakeholder demand</p>
+            <h2>BI request mix</h2>
+          </div>
+          <span id="tool-count"></span>
+        </div>
+        <div class="bar-list" id="tool-mix"></div>
+      </article>
+    </section>
+
+    <section class="panel" id="queue">
+      <div class="panel-header">
+        <div>
+          <p class="eyebrow">Transformation queue</p>
+          <h2>Site and initiative priorities</h2>
+        </div>
+        <select id="market-filter" aria-label="Filter queue by market"></select>
+      </div>
+      <div class="table-wrap">
         <table>
-          <thead><tr><th>program initiative</th><th>Signal</th><th>Risk</th><th>Next move</th></tr></thead>
-          <tbody>
-            <tr><td>Segment A</td><td>KPI drift</td><td>High</td><td>Escalate with source check</td></tr>
-            <tr><td>Segment B</td><td>Roadmap opportunity</td><td>Medium</td><td>Test with clear owner</td></tr>
-            <tr><td>Segment C</td><td>Quality gap</td><td>Watch</td><td>Document metric definition</td></tr>
-          </tbody>
+          <thead>
+            <tr>
+              <th>Site</th>
+              <th>Priority</th>
+              <th>Readiness</th>
+              <th>Attendance</th>
+              <th>Data</th>
+              <th>Next action</th>
+            </tr>
+          </thead>
+          <tbody id="site-table"></tbody>
         </table>
+      </div>
+      <div class="initiative-grid" id="initiative-grid"></div>
+    </section>
+
+    <section class="dashboard-grid" id="requirements">
+      <article class="panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Traceability</p>
+            <h2>Reporting requirements</h2>
+          </div>
+          <span id="requirement-count"></span>
+        </div>
+        <div class="requirement-list" id="requirement-list"></div>
       </article>
-      <article class="panel narrative">
-        <p class="eyebrow">What the analysis says</p>
-        <h2>Recommendations over screenshots</h2>
-        <p>The artifact is built around decisions, not dashboard decoration: each source table feeds a ranked queue, and each queue item resolves into a recommendation.</p>
-        <p>The strongest opportunities appear where performance upside, measurement quality, and operating readiness overlap.</p>
+
+      <article class="panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">SQL controls</p>
+            <h2>Quality blockers</h2>
+          </div>
+          <span id="quality-count"></span>
+        </div>
+        <div class="quality-list" id="quality-list"></div>
       </article>
     </section>
-    <section class="recommendations">
-      <article><b>01</b><h3>Validate</h3><p>Confirm source definitions before scaling the insight into recurring reporting.</p></article>
-      <article><b>02</b><h3>Prioritize</h3><p>Move the highest-value program initiative segment into the next operating review.</p></article>
-      <article><b>03</b><h3>Automate</h3><p>Convert the queue into a stakeholder-ready digest for repeated decisions.</p></article>
+
+    <section class="panel" id="scenarios">
+      <div class="panel-header">
+        <div>
+          <p class="eyebrow">Scenario lab</p>
+          <h2>Forecasted value by intervention</h2>
+        </div>
+        <span id="scenario-count"></span>
+      </div>
+      <div class="scenario-grid" id="scenario-grid"></div>
     </section>
   </main>
+  <script type="module" src="src/app.js"></script>
 </body>
 </html>

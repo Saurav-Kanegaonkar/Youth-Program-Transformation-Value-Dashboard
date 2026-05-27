@@ -1,0 +1,85 @@
+requirement_id,site_id,stakeholder_group,decision_need,reporting_cadence,tool_target,source_system,priority,acceptance_criteria,status
+REQ-0001,SITE-001,Program directors,Weekly site action queue,Daily,Tableau,Salesforce + DOE extract,P0,Matches source totals within 1 percent,Backlog
+REQ-0002,SITE-001,Site coordinators,Daily attendance exception list,Weekly,Excel,Salesforce + DOE extract,P0,Matches source totals within 1 percent,In review
+REQ-0003,SITE-001,Partnerships,Launch readiness and partner reporting,Biweekly,Power BI,Salesforce + DOE extract,P2,Matches source totals within 1 percent,In build
+REQ-0004,SITE-002,Executive leadership,Monthly value scorecard,Daily,Power BI,Salesforce + DOE extract,P2,"Includes owner, due date, and exception reason",Backlog
+REQ-0005,SITE-002,Finance partners,Budget variance and value realization,Biweekly,SQL mart,Salesforce + DOE extract,P2,Matches source totals within 1 percent,In review
+REQ-0006,SITE-002,Program directors,Weekly site action queue,Monthly,Tableau,Salesforce + DOE extract,P2,"Filters by market, program model, and school level",In build
+REQ-0007,SITE-003,Program directors,Weekly site action queue,Weekly,Tableau,Salesforce + DOE extract,P1,"Filters by market, program model, and school level",In build
+REQ-0008,SITE-003,Executive leadership,Monthly value scorecard,Monthly,Power BI,Salesforce + DOE extract,P0,Exports cleanly for leadership readout,In build
+REQ-0009,SITE-003,Site coordinators,Daily attendance exception list,Weekly,Excel,Salesforce + DOE extract,P1,"Includes owner, due date, and exception reason",In review
+REQ-0010,SITE-004,Finance partners,Budget variance and value realization,Monthly,SQL mart,Salesforce + DOE extract,P0,Matches source totals within 1 percent,Accepted
+REQ-0011,SITE-004,Site coordinators,Daily attendance exception list,Monthly,Excel,Salesforce + DOE extract,P0,Matches source totals within 1 percent,In build
+REQ-0012,SITE-004,Partnerships,Launch readiness and partner reporting,Monthly,Power BI,Salesforce + DOE extract,P0,"Filters by market, program model, and school level",In build
+REQ-0013,SITE-005,Program directors,Weekly site action queue,Weekly,Tableau,Salesforce + DOE extract,P2,"Includes owner, due date, and exception reason",Accepted
+REQ-0014,SITE-005,Executive leadership,Monthly value scorecard,Weekly,Power BI,Salesforce + DOE extract,P1,Exports cleanly for leadership readout,Backlog
+REQ-0015,SITE-005,Site coordinators,Daily attendance exception list,Monthly,Excel,Salesforce + DOE extract,P1,"Filters by market, program model, and school level",Accepted
+REQ-0016,SITE-006,Finance partners,Budget variance and value realization,Daily,SQL mart,Airtable + SIS export,P1,Matches source totals within 1 percent,Backlog
+REQ-0017,SITE-006,Program directors,Weekly site action queue,Daily,Tableau,Airtable + SIS export,P0,"Filters by market, program model, and school level",Accepted
+REQ-0018,SITE-006,Executive leadership,Monthly value scorecard,Weekly,Power BI,Airtable + SIS export,P1,"Includes owner, due date, and exception reason",Backlog
+REQ-0019,SITE-007,Finance partners,Budget variance and value realization,Daily,SQL mart,Airtable + SIS export,P0,Matches source totals within 1 percent,In review
+REQ-0020,SITE-007,Partnerships,Launch readiness and partner reporting,Weekly,Power BI,Airtable + SIS export,P0,Matches source totals within 1 percent,Accepted
+REQ-0021,SITE-007,Executive leadership,Monthly value scorecard,Daily,Power BI,Airtable + SIS export,P1,Exports cleanly for leadership readout,In review
+REQ-0022,SITE-008,Program directors,Weekly site action queue,Monthly,Tableau,Airtable + SIS export,P1,"Includes owner, due date, and exception reason",In review
+REQ-0023,SITE-008,Site coordinators,Daily attendance exception list,Weekly,Excel,Airtable + SIS export,P1,Exports cleanly for leadership readout,Accepted
+REQ-0024,SITE-008,Partnerships,Launch readiness and partner reporting,Biweekly,Power BI,Airtable + SIS export,P1,Matches source totals within 1 percent,Backlog
+REQ-0025,SITE-009,Site coordinators,Daily attendance exception list,Monthly,Excel,Airtable + SIS export,P1,"Filters by market, program model, and school level",In review
+REQ-0026,SITE-009,Finance partners,Budget variance and value realization,Monthly,SQL mart,Airtable + SIS export,P1,Exports cleanly for leadership readout,Backlog
+REQ-0027,SITE-009,Partnerships,Launch readiness and partner reporting,Biweekly,Power BI,Airtable + SIS export,P2,"Filters by market, program model, and school level",Backlog
+REQ-0028,SITE-010,Finance partners,Budget variance and value realization,Biweekly,SQL mart,Airtable + SIS export,P2,Matches source totals within 1 percent,Backlog
+REQ-0029,SITE-010,Partnerships,Launch readiness and partner reporting,Monthly,Power BI,Airtable + SIS export,P1,"Includes owner, due date, and exception reason",In build
+REQ-0030,SITE-010,Site coordinators,Daily attendance exception list,Biweekly,Excel,Airtable + SIS export,P2,"Includes owner, due date, and exception reason",Accepted
+REQ-0031,SITE-011,Site coordinators,Daily attendance exception list,Monthly,Excel,PowerSchool export,P1,"Filters by market, program model, and school level",Backlog
+REQ-0032,SITE-011,Executive leadership,Monthly value scorecard,Monthly,Power BI,PowerSchool export,P0,"Includes owner, due date, and exception reason",Backlog
+REQ-0033,SITE-011,Finance partners,Budget variance and value realization,Monthly,SQL mart,PowerSchool export,P1,Matches source totals within 1 percent,Accepted
+REQ-0034,SITE-012,Program directors,Weekly site action queue,Weekly,Tableau,PowerSchool export,P1,"Filters by market, program model, and school level",Accepted
+REQ-0035,SITE-012,Executive leadership,Monthly value scorecard,Biweekly,Power BI,PowerSchool export,P0,Matches source totals within 1 percent,Backlog
+REQ-0036,SITE-012,Partnerships,Launch readiness and partner reporting,Daily,Power BI,PowerSchool export,P2,Exports cleanly for leadership readout,Backlog
+REQ-0037,SITE-013,Program directors,Weekly site action queue,Weekly,Tableau,PowerSchool export,P1,"Includes owner, due date, and exception reason",In review
+REQ-0038,SITE-013,Site coordinators,Daily attendance exception list,Biweekly,Excel,PowerSchool export,P1,Exports cleanly for leadership readout,Accepted
+REQ-0039,SITE-013,Partnerships,Launch readiness and partner reporting,Daily,Power BI,PowerSchool export,P1,Exports cleanly for leadership readout,In review
+REQ-0040,SITE-014,Partnerships,Launch readiness and partner reporting,Biweekly,Power BI,PowerSchool export,P1,"Filters by market, program model, and school level",In build
+REQ-0041,SITE-014,Program directors,Weekly site action queue,Monthly,Tableau,PowerSchool export,P1,Exports cleanly for leadership readout,In build
+REQ-0042,SITE-014,Finance partners,Budget variance and value realization,Monthly,SQL mart,PowerSchool export,P1,"Includes owner, due date, and exception reason",In build
+REQ-0043,SITE-015,Finance partners,Budget variance and value realization,Daily,SQL mart,PowerSchool export,P0,"Filters by market, program model, and school level",Accepted
+REQ-0044,SITE-015,Executive leadership,Monthly value scorecard,Weekly,Power BI,PowerSchool export,P1,Exports cleanly for leadership readout,In review
+REQ-0045,SITE-015,Partnerships,Launch readiness and partner reporting,Monthly,Power BI,PowerSchool export,P1,"Filters by market, program model, and school level",In review
+REQ-0046,SITE-016,Program directors,Weekly site action queue,Biweekly,Tableau,Google Sheets intake,P2,"Includes owner, due date, and exception reason",Backlog
+REQ-0047,SITE-016,Partnerships,Launch readiness and partner reporting,Weekly,Power BI,Google Sheets intake,P1,"Includes owner, due date, and exception reason",In review
+REQ-0048,SITE-016,Finance partners,Budget variance and value realization,Weekly,SQL mart,Google Sheets intake,P1,"Filters by market, program model, and school level",In review
+REQ-0049,SITE-017,Program directors,Weekly site action queue,Weekly,Tableau,Google Sheets intake,P1,Exports cleanly for leadership readout,In review
+REQ-0050,SITE-017,Site coordinators,Daily attendance exception list,Daily,Excel,Google Sheets intake,P1,"Includes owner, due date, and exception reason",Accepted
+REQ-0051,SITE-017,Executive leadership,Monthly value scorecard,Daily,Power BI,Google Sheets intake,P1,Exports cleanly for leadership readout,In review
+REQ-0052,SITE-018,Site coordinators,Daily attendance exception list,Daily,Excel,Google Sheets intake,P1,Exports cleanly for leadership readout,In build
+REQ-0053,SITE-018,Executive leadership,Monthly value scorecard,Weekly,Power BI,Google Sheets intake,P2,Matches source totals within 1 percent,In review
+REQ-0054,SITE-018,Program directors,Weekly site action queue,Weekly,Tableau,Google Sheets intake,P0,"Filters by market, program model, and school level",Backlog
+REQ-0055,SITE-019,Partnerships,Launch readiness and partner reporting,Daily,Power BI,Google Sheets intake,P1,Matches source totals within 1 percent,Backlog
+REQ-0056,SITE-019,Site coordinators,Daily attendance exception list,Biweekly,Excel,Google Sheets intake,P2,"Filters by market, program model, and school level",Backlog
+REQ-0057,SITE-019,Program directors,Weekly site action queue,Monthly,Tableau,Google Sheets intake,P0,Matches source totals within 1 percent,Backlog
+REQ-0058,SITE-020,Site coordinators,Daily attendance exception list,Weekly,Excel,Google Sheets intake,P0,Matches source totals within 1 percent,Backlog
+REQ-0059,SITE-020,Finance partners,Budget variance and value realization,Daily,SQL mart,Google Sheets intake,P1,"Filters by market, program model, and school level",Accepted
+REQ-0060,SITE-020,Program directors,Weekly site action queue,Daily,Tableau,Google Sheets intake,P1,"Includes owner, due date, and exception reason",Backlog
+REQ-0061,SITE-021,Partnerships,Launch readiness and partner reporting,Biweekly,Power BI,Excel tracker,P1,Matches source totals within 1 percent,Backlog
+REQ-0062,SITE-021,Program directors,Weekly site action queue,Monthly,Tableau,Excel tracker,P1,"Filters by market, program model, and school level",Accepted
+REQ-0063,SITE-021,Site coordinators,Daily attendance exception list,Monthly,Excel,Excel tracker,P2,Exports cleanly for leadership readout,Backlog
+REQ-0064,SITE-022,Executive leadership,Monthly value scorecard,Daily,Power BI,Excel tracker,P1,"Filters by market, program model, and school level",In build
+REQ-0065,SITE-022,Site coordinators,Daily attendance exception list,Daily,Excel,Excel tracker,P0,Exports cleanly for leadership readout,Accepted
+REQ-0066,SITE-022,Program directors,Weekly site action queue,Monthly,Tableau,Excel tracker,P0,"Includes owner, due date, and exception reason",In review
+REQ-0067,SITE-023,Executive leadership,Monthly value scorecard,Biweekly,Power BI,Excel tracker,P1,"Includes owner, due date, and exception reason",Accepted
+REQ-0068,SITE-023,Finance partners,Budget variance and value realization,Daily,SQL mart,Excel tracker,P1,Matches source totals within 1 percent,In build
+REQ-0069,SITE-023,Site coordinators,Daily attendance exception list,Monthly,Excel,Excel tracker,P1,Matches source totals within 1 percent,Backlog
+REQ-0070,SITE-024,Partnerships,Launch readiness and partner reporting,Daily,Power BI,Excel tracker,P0,Exports cleanly for leadership readout,In build
+REQ-0071,SITE-024,Executive leadership,Monthly value scorecard,Monthly,Power BI,Excel tracker,P1,Exports cleanly for leadership readout,Backlog
+REQ-0072,SITE-024,Site coordinators,Daily attendance exception list,Weekly,Excel,Excel tracker,P0,"Filters by market, program model, and school level",In build
+REQ-0073,SITE-025,Executive leadership,Monthly value scorecard,Biweekly,Power BI,Excel tracker,P0,"Filters by market, program model, and school level",Backlog
+REQ-0074,SITE-025,Site coordinators,Daily attendance exception list,Weekly,Excel,Excel tracker,P2,Exports cleanly for leadership readout,In review
+REQ-0075,SITE-025,Finance partners,Budget variance and value realization,Monthly,SQL mart,Excel tracker,P1,Matches source totals within 1 percent,In review
+REQ-0076,SITE-026,Partnerships,Launch readiness and partner reporting,Monthly,Power BI,Partner CSV intake,P1,Exports cleanly for leadership readout,In build
+REQ-0077,SITE-026,Site coordinators,Daily attendance exception list,Monthly,Excel,Partner CSV intake,P2,"Filters by market, program model, and school level",In build
+REQ-0078,SITE-026,Executive leadership,Monthly value scorecard,Monthly,Power BI,Partner CSV intake,P1,Exports cleanly for leadership readout,In review
+REQ-0079,SITE-027,Finance partners,Budget variance and value realization,Weekly,SQL mart,Partner CSV intake,P2,"Includes owner, due date, and exception reason",In build
+REQ-0080,SITE-027,Executive leadership,Monthly value scorecard,Monthly,Power BI,Partner CSV intake,P2,"Filters by market, program model, and school level",Accepted
+REQ-0081,SITE-027,Partnerships,Launch readiness and partner reporting,Daily,Power BI,Partner CSV intake,P1,Exports cleanly for leadership readout,In review
+REQ-0082,SITE-028,Partnerships,Launch readiness and partner reporting,Biweekly,Power BI,Partner CSV intake,P1,"Includes owner, due date, and exception reason",Backlog
+REQ-0083,SITE-028,Site coordinators,Daily attendance exception list,Monthly,Excel,Partner CSV intake,P1,"Includes owner, due date, and exception reason",In review
+REQ-0084,SITE-028,Finance partners,Budget variance and value realization,Monthly,SQL mart,Partner CSV intake,P1,"Includes owner, due date, and exception reason",In build

@@ -1,0 +1,169 @@
+check_id,site_id,source_system,sql_check_name,issue_theme,severity,records_checked,defect_count,defect_rate,owner_team,status
+DQ-0001,SITE-001,Attendance,attendance_day_completeness,missing attendance dates,Medium,2335,131,0.0561,Analytics,Resolved
+DQ-0002,SITE-001,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Medium,4265,223,0.0523,Analytics,Resolved
+DQ-0003,SITE-001,Assessment,assessment_score_valid_range,invalid pre/post score range,Medium,710,45,0.0634,Site Leadership,Resolved
+DQ-0004,SITE-001,Staffing,staff_roster_alignment,unmatched staff schedule rows,Medium,3184,139,0.0437,Site Leadership,Open
+DQ-0005,SITE-001,Finance,budget_program_code_match,program code mismatch,Medium,1093,79,0.0723,Analytics,Resolved
+DQ-0006,SITE-001,BI requests,stakeholder_request_sla,stale requirement status,Medium,4050,174,0.043,Site Leadership,Open
+DQ-0007,SITE-002,Attendance,attendance_day_completeness,missing attendance dates,Low,1678,8,0.0048,Site Leadership,Resolved
+DQ-0008,SITE-002,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Low,863,1,0.0012,Program Ops,Open
+DQ-0009,SITE-002,Assessment,assessment_score_valid_range,invalid pre/post score range,Low,614,16,0.0261,Program Ops,In progress
+DQ-0010,SITE-002,Staffing,staff_roster_alignment,unmatched staff schedule rows,Low,831,11,0.0132,Program Ops,In progress
+DQ-0011,SITE-002,Finance,budget_program_code_match,program code mismatch,Medium,1137,89,0.0783,Finance Ops,Open
+DQ-0012,SITE-002,BI requests,stakeholder_request_sla,stale requirement status,Medium,4964,395,0.0796,Analytics,Resolved
+DQ-0013,SITE-003,Attendance,attendance_day_completeness,missing attendance dates,Medium,2542,156,0.0614,Finance Ops,Open
+DQ-0014,SITE-003,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Medium,565,26,0.046,Analytics,Resolved
+DQ-0015,SITE-003,Assessment,assessment_score_valid_range,invalid pre/post score range,Medium,4579,333,0.0727,Analytics,Open
+DQ-0016,SITE-003,Staffing,staff_roster_alignment,unmatched staff schedule rows,Medium,4888,234,0.0479,Analytics,Open
+DQ-0017,SITE-003,Finance,budget_program_code_match,program code mismatch,Low,3341,6,0.0018,Program Ops,Open
+DQ-0018,SITE-003,BI requests,stakeholder_request_sla,stale requirement status,Low,4792,31,0.0065,Site Leadership,Open
+DQ-0019,SITE-004,Attendance,attendance_day_completeness,missing attendance dates,Low,1385,38,0.0274,Analytics,Open
+DQ-0020,SITE-004,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,High,5053,455,0.09,Program Ops,Open
+DQ-0021,SITE-004,Assessment,assessment_score_valid_range,invalid pre/post score range,Medium,903,44,0.0487,Finance Ops,Open
+DQ-0022,SITE-004,Staffing,staff_roster_alignment,unmatched staff schedule rows,Medium,1492,86,0.0576,Finance Ops,Open
+DQ-0023,SITE-004,Finance,budget_program_code_match,program code mismatch,Medium,4404,318,0.0722,Finance Ops,Resolved
+DQ-0024,SITE-004,BI requests,stakeholder_request_sla,stale requirement status,High,4762,447,0.0939,Program Ops,Resolved
+DQ-0025,SITE-005,Attendance,attendance_day_completeness,missing attendance dates,Medium,836,58,0.0694,Program Ops,Open
+DQ-0026,SITE-005,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Low,579,8,0.0138,Finance Ops,Open
+DQ-0027,SITE-005,Assessment,assessment_score_valid_range,invalid pre/post score range,Low,4072,84,0.0206,Analytics,Resolved
+DQ-0028,SITE-005,Staffing,staff_roster_alignment,unmatched staff schedule rows,Medium,3597,168,0.0467,Analytics,Open
+DQ-0029,SITE-005,Finance,budget_program_code_match,program code mismatch,Medium,3436,146,0.0425,Site Leadership,In progress
+DQ-0030,SITE-005,BI requests,stakeholder_request_sla,stale requirement status,Low,885,7,0.0079,Finance Ops,Resolved
+DQ-0031,SITE-006,Attendance,attendance_day_completeness,missing attendance dates,Medium,1643,62,0.0377,Analytics,Open
+DQ-0032,SITE-006,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Low,2831,71,0.0251,Analytics,In progress
+DQ-0033,SITE-006,Assessment,assessment_score_valid_range,invalid pre/post score range,Medium,4315,278,0.0644,Site Leadership,Open
+DQ-0034,SITE-006,Staffing,staff_roster_alignment,unmatched staff schedule rows,Low,1058,2,0.0019,Site Leadership,In progress
+DQ-0035,SITE-006,Finance,budget_program_code_match,program code mismatch,Low,2541,5,0.002,Finance Ops,Open
+DQ-0036,SITE-006,BI requests,stakeholder_request_sla,stale requirement status,Low,4703,154,0.0327,Site Leadership,Resolved
+DQ-0037,SITE-007,Attendance,attendance_day_completeness,missing attendance dates,Medium,2169,171,0.0788,Analytics,Open
+DQ-0038,SITE-007,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Medium,2008,138,0.0687,Analytics,Open
+DQ-0039,SITE-007,Assessment,assessment_score_valid_range,invalid pre/post score range,Medium,4293,190,0.0443,Program Ops,Open
+DQ-0040,SITE-007,Staffing,staff_roster_alignment,unmatched staff schedule rows,Medium,3552,204,0.0574,Analytics,In progress
+DQ-0041,SITE-007,Finance,budget_program_code_match,program code mismatch,Low,2224,4,0.0018,Site Leadership,In progress
+DQ-0042,SITE-007,BI requests,stakeholder_request_sla,stale requirement status,Low,4406,145,0.0329,Analytics,Open
+DQ-0043,SITE-008,Attendance,attendance_day_completeness,missing attendance dates,Low,1117,20,0.0179,Analytics,Resolved
+DQ-0044,SITE-008,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Medium,1592,76,0.0477,Site Leadership,In progress
+DQ-0045,SITE-008,Assessment,assessment_score_valid_range,invalid pre/post score range,Low,2101,4,0.0019,Analytics,Open
+DQ-0046,SITE-008,Staffing,staff_roster_alignment,unmatched staff schedule rows,Low,5049,157,0.0311,Finance Ops,Open
+DQ-0047,SITE-008,Finance,budget_program_code_match,program code mismatch,Medium,4408,330,0.0749,Site Leadership,Open
+DQ-0048,SITE-008,BI requests,stakeholder_request_sla,stale requirement status,Low,2866,5,0.0017,Site Leadership,Open
+DQ-0049,SITE-009,Attendance,attendance_day_completeness,missing attendance dates,Medium,3733,270,0.0723,Analytics,Open
+DQ-0050,SITE-009,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Medium,2980,132,0.0443,Finance Ops,Open
+DQ-0051,SITE-009,Assessment,assessment_score_valid_range,invalid pre/post score range,Low,4487,81,0.0181,Site Leadership,Open
+DQ-0052,SITE-009,Staffing,staff_roster_alignment,unmatched staff schedule rows,Medium,2909,125,0.043,Program Ops,Open
+DQ-0053,SITE-009,Finance,budget_program_code_match,program code mismatch,Medium,3312,251,0.0758,Finance Ops,Open
+DQ-0054,SITE-009,BI requests,stakeholder_request_sla,stale requirement status,Low,3373,90,0.0267,Program Ops,Open
+DQ-0055,SITE-010,Attendance,attendance_day_completeness,missing attendance dates,Low,3370,99,0.0294,Finance Ops,Open
+DQ-0056,SITE-010,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Low,3362,6,0.0018,Finance Ops,Resolved
+DQ-0057,SITE-010,Assessment,assessment_score_valid_range,invalid pre/post score range,Medium,3349,211,0.063,Site Leadership,In progress
+DQ-0058,SITE-010,Staffing,staff_roster_alignment,unmatched staff schedule rows,Low,533,5,0.0094,Analytics,Resolved
+DQ-0059,SITE-010,Finance,budget_program_code_match,program code mismatch,Medium,2423,111,0.0458,Finance Ops,Resolved
+DQ-0060,SITE-010,BI requests,stakeholder_request_sla,stale requirement status,Medium,2934,108,0.0368,Analytics,Open
+DQ-0061,SITE-011,Attendance,attendance_day_completeness,missing attendance dates,Medium,2805,178,0.0635,Finance Ops,Resolved
+DQ-0062,SITE-011,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Low,3890,79,0.0203,Finance Ops,Open
+DQ-0063,SITE-011,Assessment,assessment_score_valid_range,invalid pre/post score range,Medium,1183,46,0.0389,Analytics,Open
+DQ-0064,SITE-011,Staffing,staff_roster_alignment,unmatched staff schedule rows,Medium,1157,59,0.051,Program Ops,Open
+DQ-0065,SITE-011,Finance,budget_program_code_match,program code mismatch,Low,815,1,0.0012,Analytics,Open
+DQ-0066,SITE-011,BI requests,stakeholder_request_sla,stale requirement status,Medium,4152,253,0.0609,Site Leadership,In progress
+DQ-0067,SITE-012,Attendance,attendance_day_completeness,missing attendance dates,Medium,4163,318,0.0764,Analytics,Resolved
+DQ-0068,SITE-012,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,High,2446,217,0.0887,Finance Ops,In progress
+DQ-0069,SITE-012,Assessment,assessment_score_valid_range,invalid pre/post score range,Low,3372,83,0.0246,Site Leadership,In progress
+DQ-0070,SITE-012,Staffing,staff_roster_alignment,unmatched staff schedule rows,Low,3816,7,0.0018,Site Leadership,Open
+DQ-0071,SITE-012,Finance,budget_program_code_match,program code mismatch,Low,849,1,0.0012,Finance Ops,In progress
+DQ-0072,SITE-012,BI requests,stakeholder_request_sla,stale requirement status,Low,1445,2,0.0014,Finance Ops,In progress
+DQ-0073,SITE-013,Attendance,attendance_day_completeness,missing attendance dates,Low,3642,101,0.0277,Program Ops,Open
+DQ-0074,SITE-013,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Low,4359,24,0.0055,Analytics,Open
+DQ-0075,SITE-013,Assessment,assessment_score_valid_range,invalid pre/post score range,Low,4188,29,0.0069,Program Ops,In progress
+DQ-0076,SITE-013,Staffing,staff_roster_alignment,unmatched staff schedule rows,Low,4014,47,0.0117,Finance Ops,Open
+DQ-0077,SITE-013,Finance,budget_program_code_match,program code mismatch,Medium,3359,200,0.0595,Program Ops,Open
+DQ-0078,SITE-013,BI requests,stakeholder_request_sla,stale requirement status,Medium,4748,179,0.0377,Analytics,Resolved
+DQ-0079,SITE-014,Attendance,attendance_day_completeness,missing attendance dates,Medium,1578,60,0.038,Site Leadership,Open
+DQ-0080,SITE-014,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Medium,4859,357,0.0735,Analytics,Open
+DQ-0081,SITE-014,Assessment,assessment_score_valid_range,invalid pre/post score range,Low,5191,172,0.0331,Analytics,Resolved
+DQ-0082,SITE-014,Staffing,staff_roster_alignment,unmatched staff schedule rows,Low,4905,24,0.0049,Program Ops,Open
+DQ-0083,SITE-014,Finance,budget_program_code_match,program code mismatch,Low,886,1,0.0011,Program Ops,In progress
+DQ-0084,SITE-014,BI requests,stakeholder_request_sla,stale requirement status,Low,3240,6,0.0019,Finance Ops,Open
+DQ-0085,SITE-015,Attendance,attendance_day_completeness,missing attendance dates,Low,3046,59,0.0194,Finance Ops,Open
+DQ-0086,SITE-015,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Medium,849,49,0.0577,Site Leadership,Open
+DQ-0087,SITE-015,Assessment,assessment_score_valid_range,invalid pre/post score range,Low,4366,8,0.0018,Program Ops,In progress
+DQ-0088,SITE-015,Staffing,staff_roster_alignment,unmatched staff schedule rows,Low,4896,34,0.0069,Finance Ops,Open
+DQ-0089,SITE-015,Finance,budget_program_code_match,program code mismatch,Low,4852,9,0.0019,Site Leadership,In progress
+DQ-0090,SITE-015,BI requests,stakeholder_request_sla,stale requirement status,Low,1428,22,0.0154,Program Ops,Open
+DQ-0091,SITE-016,Attendance,attendance_day_completeness,missing attendance dates,Medium,1400,105,0.075,Finance Ops,In progress
+DQ-0092,SITE-016,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Medium,4209,354,0.0841,Program Ops,In progress
+DQ-0093,SITE-016,Assessment,assessment_score_valid_range,invalid pre/post score range,Medium,2481,119,0.048,Site Leadership,Open
+DQ-0094,SITE-016,Staffing,staff_roster_alignment,unmatched staff schedule rows,Low,4235,10,0.0024,Finance Ops,Open
+DQ-0095,SITE-016,Finance,budget_program_code_match,program code mismatch,Low,1873,60,0.032,Program Ops,Resolved
+DQ-0096,SITE-016,BI requests,stakeholder_request_sla,stale requirement status,High,2490,217,0.0871,Finance Ops,Resolved
+DQ-0097,SITE-017,Attendance,attendance_day_completeness,missing attendance dates,Medium,2182,164,0.0752,Analytics,Open
+DQ-0098,SITE-017,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,High,4349,380,0.0874,Program Ops,Resolved
+DQ-0099,SITE-017,Assessment,assessment_score_valid_range,invalid pre/post score range,Critical,1354,208,0.1536,Site Leadership,Resolved
+DQ-0100,SITE-017,Staffing,staff_roster_alignment,unmatched staff schedule rows,High,1547,133,0.086,Analytics,In progress
+DQ-0101,SITE-017,Finance,budget_program_code_match,program code mismatch,Low,2055,44,0.0214,Program Ops,Open
+DQ-0102,SITE-017,BI requests,stakeholder_request_sla,stale requirement status,High,5196,466,0.0897,Program Ops,Resolved
+DQ-0103,SITE-018,Attendance,attendance_day_completeness,missing attendance dates,Medium,3843,151,0.0393,Program Ops,Open
+DQ-0104,SITE-018,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,High,4450,534,0.12,Analytics,Open
+DQ-0105,SITE-018,Assessment,assessment_score_valid_range,invalid pre/post score range,Low,4034,57,0.0141,Program Ops,In progress
+DQ-0106,SITE-018,Staffing,staff_roster_alignment,unmatched staff schedule rows,Medium,4478,191,0.0427,Analytics,Open
+DQ-0107,SITE-018,Finance,budget_program_code_match,program code mismatch,High,641,74,0.1154,Analytics,In progress
+DQ-0108,SITE-018,BI requests,stakeholder_request_sla,stale requirement status,Medium,5144,182,0.0354,Finance Ops,In progress
+DQ-0109,SITE-019,Attendance,attendance_day_completeness,missing attendance dates,Medium,4052,256,0.0632,Program Ops,Resolved
+DQ-0110,SITE-019,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Medium,3525,250,0.0709,Analytics,Open
+DQ-0111,SITE-019,Assessment,assessment_score_valid_range,invalid pre/post score range,High,3538,326,0.0921,Program Ops,In progress
+DQ-0112,SITE-019,Staffing,staff_roster_alignment,unmatched staff schedule rows,Low,1636,3,0.0018,Analytics,Resolved
+DQ-0113,SITE-019,Finance,budget_program_code_match,program code mismatch,Medium,3653,155,0.0424,Site Leadership,Open
+DQ-0114,SITE-019,BI requests,stakeholder_request_sla,stale requirement status,Low,3530,116,0.0329,Site Leadership,In progress
+DQ-0115,SITE-020,Attendance,attendance_day_completeness,missing attendance dates,Medium,3475,183,0.0527,Analytics,Open
+DQ-0116,SITE-020,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Critical,1580,238,0.1506,Analytics,Resolved
+DQ-0117,SITE-020,Assessment,assessment_score_valid_range,invalid pre/post score range,Medium,2601,214,0.0823,Site Leadership,In progress
+DQ-0118,SITE-020,Staffing,staff_roster_alignment,unmatched staff schedule rows,Medium,1343,72,0.0536,Program Ops,Resolved
+DQ-0119,SITE-020,Finance,budget_program_code_match,program code mismatch,High,2689,306,0.1138,Finance Ops,Resolved
+DQ-0120,SITE-020,BI requests,stakeholder_request_sla,stale requirement status,Medium,1524,73,0.0479,Site Leadership,In progress
+DQ-0121,SITE-021,Attendance,attendance_day_completeness,missing attendance dates,High,4390,486,0.1107,Site Leadership,Resolved
+DQ-0122,SITE-021,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,High,2560,298,0.1164,Finance Ops,Open
+DQ-0123,SITE-021,Assessment,assessment_score_valid_range,invalid pre/post score range,Medium,3014,241,0.08,Analytics,In progress
+DQ-0124,SITE-021,Staffing,staff_roster_alignment,unmatched staff schedule rows,High,4231,432,0.1021,Finance Ops,Open
+DQ-0125,SITE-021,Finance,budget_program_code_match,program code mismatch,Medium,3815,258,0.0676,Finance Ops,Resolved
+DQ-0126,SITE-021,BI requests,stakeholder_request_sla,stale requirement status,Critical,3900,611,0.1567,Analytics,Resolved
+DQ-0127,SITE-022,Attendance,attendance_day_completeness,missing attendance dates,Medium,4840,289,0.0597,Program Ops,Open
+DQ-0128,SITE-022,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,High,2719,233,0.0857,Site Leadership,Open
+DQ-0129,SITE-022,Assessment,assessment_score_valid_range,invalid pre/post score range,Critical,4659,870,0.1867,Site Leadership,Open
+DQ-0130,SITE-022,Staffing,staff_roster_alignment,unmatched staff schedule rows,Medium,1035,46,0.0444,Analytics,In progress
+DQ-0131,SITE-022,Finance,budget_program_code_match,program code mismatch,Medium,4392,329,0.0749,Analytics,Open
+DQ-0132,SITE-022,BI requests,stakeholder_request_sla,stale requirement status,Critical,967,143,0.1479,Program Ops,In progress
+DQ-0133,SITE-023,Attendance,attendance_day_completeness,missing attendance dates,Medium,4097,183,0.0447,Analytics,Resolved
+DQ-0134,SITE-023,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Medium,3375,269,0.0797,Program Ops,Open
+DQ-0135,SITE-023,Assessment,assessment_score_valid_range,invalid pre/post score range,High,4236,550,0.1298,Program Ops,Open
+DQ-0136,SITE-023,Staffing,staff_roster_alignment,unmatched staff schedule rows,Low,2519,65,0.0258,Program Ops,Resolved
+DQ-0137,SITE-023,Finance,budget_program_code_match,program code mismatch,High,2307,224,0.0971,Program Ops,Open
+DQ-0138,SITE-023,BI requests,stakeholder_request_sla,stale requirement status,Low,2926,91,0.0311,Finance Ops,Open
+DQ-0139,SITE-024,Attendance,attendance_day_completeness,missing attendance dates,Medium,4924,237,0.0481,Program Ops,In progress
+DQ-0140,SITE-024,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Medium,3120,171,0.0548,Analytics,Open
+DQ-0141,SITE-024,Assessment,assessment_score_valid_range,invalid pre/post score range,High,917,98,0.1069,Program Ops,Open
+DQ-0142,SITE-024,Staffing,staff_roster_alignment,unmatched staff schedule rows,Medium,3525,275,0.078,Site Leadership,Open
+DQ-0143,SITE-024,Finance,budget_program_code_match,program code mismatch,High,2236,269,0.1203,Finance Ops,In progress
+DQ-0144,SITE-024,BI requests,stakeholder_request_sla,stale requirement status,Medium,3355,237,0.0706,Finance Ops,Open
+DQ-0145,SITE-025,Attendance,attendance_day_completeness,missing attendance dates,Medium,1119,44,0.0393,Analytics,Resolved
+DQ-0146,SITE-025,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,High,2235,218,0.0975,Finance Ops,Open
+DQ-0147,SITE-025,Assessment,assessment_score_valid_range,invalid pre/post score range,Medium,2748,172,0.0626,Analytics,In progress
+DQ-0148,SITE-025,Staffing,staff_roster_alignment,unmatched staff schedule rows,High,3226,335,0.1038,Finance Ops,Open
+DQ-0149,SITE-025,Finance,budget_program_code_match,program code mismatch,High,4791,471,0.0983,Program Ops,Open
+DQ-0150,SITE-025,BI requests,stakeholder_request_sla,stale requirement status,Medium,1410,69,0.0489,Site Leadership,Open
+DQ-0151,SITE-026,Attendance,attendance_day_completeness,missing attendance dates,Medium,2835,232,0.0818,Site Leadership,In progress
+DQ-0152,SITE-026,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,Medium,2705,132,0.0488,Analytics,In progress
+DQ-0153,SITE-026,Assessment,assessment_score_valid_range,invalid pre/post score range,Medium,728,54,0.0742,Program Ops,In progress
+DQ-0154,SITE-026,Staffing,staff_roster_alignment,unmatched staff schedule rows,Low,1037,24,0.0231,Site Leadership,Open
+DQ-0155,SITE-026,Finance,budget_program_code_match,program code mismatch,High,2749,268,0.0975,Analytics,Resolved
+DQ-0156,SITE-026,BI requests,stakeholder_request_sla,stale requirement status,Low,2429,82,0.0338,Site Leadership,Open
+DQ-0157,SITE-027,Attendance,attendance_day_completeness,missing attendance dates,High,2628,307,0.1168,Site Leadership,Open
+DQ-0158,SITE-027,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,High,2066,215,0.1041,Program Ops,Open
+DQ-0159,SITE-027,Assessment,assessment_score_valid_range,invalid pre/post score range,Low,1085,32,0.0295,Analytics,Open
+DQ-0160,SITE-027,Staffing,staff_roster_alignment,unmatched staff schedule rows,Medium,4895,315,0.0644,Site Leadership,Resolved
+DQ-0161,SITE-027,Finance,budget_program_code_match,program code mismatch,Medium,3749,288,0.0768,Site Leadership,Resolved
+DQ-0162,SITE-027,BI requests,stakeholder_request_sla,stale requirement status,Low,2799,40,0.0143,Analytics,Open
+DQ-0163,SITE-028,Attendance,attendance_day_completeness,missing attendance dates,Low,1151,2,0.0017,Site Leadership,Open
+DQ-0164,SITE-028,Enrollment,duplicate_student_program_enrollment,duplicate participant rows,High,1636,160,0.0978,Program Ops,Open
+DQ-0165,SITE-028,Assessment,assessment_score_valid_range,invalid pre/post score range,Low,2393,55,0.023,Site Leadership,Open
+DQ-0166,SITE-028,Staffing,staff_roster_alignment,unmatched staff schedule rows,Medium,4962,384,0.0774,Finance Ops,Open
+DQ-0167,SITE-028,Finance,budget_program_code_match,program code mismatch,Medium,2547,131,0.0514,Analytics,In progress
+DQ-0168,SITE-028,BI requests,stakeholder_request_sla,stale requirement status,Medium,2921,152,0.052,Analytics,In progress

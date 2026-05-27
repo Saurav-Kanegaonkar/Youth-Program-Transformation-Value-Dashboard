@@ -1,0 +1,141 @@
+scenario_id,site_id,scenario_name,attendance_lift_pp,staff_coverage_lift_pp,cost_change_pct,weekly_hours_saved,confidence
+SITE-001-baseline,SITE-001,Baseline,0.0,0.003,-0.001,0.7,0.47
+SITE-001-attendance-push,SITE-001,Attendance push,0.062,0.018,0.015,3.6,0.71
+SITE-001-bi-automation,SITE-001,BI automation,0.025,0.023,-0.015,7.2,0.61
+SITE-001-staff-coverage-sprint,SITE-001,Staff coverage sprint,0.032,0.06,0.029,2.5,0.78
+SITE-001-wellness-expansion,SITE-001,Wellness expansion,0.03,0.017,0.038,0.6,0.72
+SITE-002-baseline,SITE-002,Baseline,-0.004,0.006,-0.004,0.3,0.91
+SITE-002-attendance-push,SITE-002,Attendance push,0.056,0.006,0.023,4.2,0.54
+SITE-002-bi-automation,SITE-002,BI automation,0.022,0.021,-0.016,8.2,0.83
+SITE-002-staff-coverage-sprint,SITE-002,Staff coverage sprint,0.02,0.068,0.033,1.6,0.54
+SITE-002-wellness-expansion,SITE-002,Wellness expansion,0.024,0.017,0.032,1.4,0.57
+SITE-003-baseline,SITE-003,Baseline,-0.003,0.005,-0.005,0.7,0.72
+SITE-003-attendance-push,SITE-003,Attendance push,0.061,0.011,0.02,4.1,0.94
+SITE-003-bi-automation,SITE-003,BI automation,0.013,0.022,-0.008,8.2,0.6
+SITE-003-staff-coverage-sprint,SITE-003,Staff coverage sprint,0.02,0.064,0.028,2.0,0.75
+SITE-003-wellness-expansion,SITE-003,Wellness expansion,0.017,0.018,0.03,1.2,0.59
+SITE-004-baseline,SITE-004,Baseline,0.007,0.007,-0.005,0.6,0.85
+SITE-004-attendance-push,SITE-004,Attendance push,0.049,0.019,0.017,3.6,0.79
+SITE-004-bi-automation,SITE-004,BI automation,0.013,0.021,-0.006,8.1,0.71
+SITE-004-staff-coverage-sprint,SITE-004,Staff coverage sprint,0.024,0.061,0.03,1.9,0.83
+SITE-004-wellness-expansion,SITE-004,Wellness expansion,0.018,0.012,0.036,2.3,0.78
+SITE-005-baseline,SITE-005,Baseline,0.006,0.001,-0.0,0.4,0.8
+SITE-005-attendance-push,SITE-005,Attendance push,0.064,0.009,0.023,3.0,0.47
+SITE-005-bi-automation,SITE-005,BI automation,0.014,0.028,-0.017,7.2,0.78
+SITE-005-staff-coverage-sprint,SITE-005,Staff coverage sprint,0.028,0.065,0.03,2.3,0.66
+SITE-005-wellness-expansion,SITE-005,Wellness expansion,0.03,0.023,0.033,2.1,0.94
+SITE-006-baseline,SITE-006,Baseline,-0.005,0.007,-0.004,0,0.78
+SITE-006-attendance-push,SITE-006,Attendance push,0.063,0.009,0.015,4.2,0.92
+SITE-006-bi-automation,SITE-006,BI automation,0.012,0.018,-0.016,8.3,0.66
+SITE-006-staff-coverage-sprint,SITE-006,Staff coverage sprint,0.034,0.066,0.032,1.6,0.93
+SITE-006-wellness-expansion,SITE-006,Wellness expansion,0.025,0.021,0.037,1.5,0.81
+SITE-007-baseline,SITE-007,Baseline,-0.001,-0.004,-0.001,0.1,0.49
+SITE-007-attendance-push,SITE-007,Attendance push,0.051,0.01,0.013,3.8,0.87
+SITE-007-bi-automation,SITE-007,BI automation,0.025,0.021,-0.016,8.0,0.89
+SITE-007-staff-coverage-sprint,SITE-007,Staff coverage sprint,0.033,0.07,0.023,3.3,0.75
+SITE-007-wellness-expansion,SITE-007,Wellness expansion,0.029,0.014,0.029,1.8,0.56
+SITE-008-baseline,SITE-008,Baseline,0.004,-0.0,-0.003,0,0.82
+SITE-008-attendance-push,SITE-008,Attendance push,0.056,0.011,0.014,4.3,0.72
+SITE-008-bi-automation,SITE-008,BI automation,0.013,0.025,-0.012,6.7,0.74
+SITE-008-staff-coverage-sprint,SITE-008,Staff coverage sprint,0.022,0.064,0.032,2.4,0.93
+SITE-008-wellness-expansion,SITE-008,Wellness expansion,0.026,0.012,0.032,2.3,0.81
+SITE-009-baseline,SITE-009,Baseline,0.001,0.005,0.006,0,0.82
+SITE-009-attendance-push,SITE-009,Attendance push,0.062,0.013,0.015,4.3,0.87
+SITE-009-bi-automation,SITE-009,BI automation,0.022,0.028,-0.015,6.8,0.62
+SITE-009-staff-coverage-sprint,SITE-009,Staff coverage sprint,0.028,0.07,0.024,1.8,0.75
+SITE-009-wellness-expansion,SITE-009,Wellness expansion,0.028,0.02,0.035,1.6,0.75
+SITE-010-baseline,SITE-010,Baseline,0.008,0.0,-0.005,1.3,0.65
+SITE-010-attendance-push,SITE-010,Attendance push,0.05,0.01,0.018,3.5,0.75
+SITE-010-bi-automation,SITE-010,BI automation,0.018,0.023,-0.01,7.0,0.83
+SITE-010-staff-coverage-sprint,SITE-010,Staff coverage sprint,0.029,0.059,0.023,2.0,0.71
+SITE-010-wellness-expansion,SITE-010,Wellness expansion,0.017,0.02,0.032,1.3,0.54
+SITE-011-baseline,SITE-011,Baseline,0.007,-0.001,0.0,0.9,0.5
+SITE-011-attendance-push,SITE-011,Attendance push,0.06,0.019,0.018,3.9,0.44
+SITE-011-bi-automation,SITE-011,BI automation,0.022,0.014,-0.017,8.2,0.89
+SITE-011-staff-coverage-sprint,SITE-011,Staff coverage sprint,0.032,0.067,0.029,1.8,0.89
+SITE-011-wellness-expansion,SITE-011,Wellness expansion,0.028,0.015,0.037,0.6,0.66
+SITE-012-baseline,SITE-012,Baseline,0.006,-0.006,-0.005,0,0.79
+SITE-012-attendance-push,SITE-012,Attendance push,0.061,0.01,0.013,4.2,0.79
+SITE-012-bi-automation,SITE-012,BI automation,0.014,0.027,-0.016,6.8,0.78
+SITE-012-staff-coverage-sprint,SITE-012,Staff coverage sprint,0.032,0.071,0.033,2.4,0.78
+SITE-012-wellness-expansion,SITE-012,Wellness expansion,0.023,0.01,0.03,1.7,0.9
+SITE-013-baseline,SITE-013,Baseline,0.009,-0.003,-0.002,0,0.94
+SITE-013-attendance-push,SITE-013,Attendance push,0.055,0.007,0.021,4.1,0.63
+SITE-013-bi-automation,SITE-013,BI automation,0.013,0.02,-0.013,7.0,0.65
+SITE-013-staff-coverage-sprint,SITE-013,Staff coverage sprint,0.027,0.06,0.034,1.7,0.54
+SITE-013-wellness-expansion,SITE-013,Wellness expansion,0.023,0.022,0.033,0.5,0.78
+SITE-014-baseline,SITE-014,Baseline,-0.004,0.004,0.002,0,0.76
+SITE-014-attendance-push,SITE-014,Attendance push,0.052,0.019,0.021,3.8,0.79
+SITE-014-bi-automation,SITE-014,BI automation,0.016,0.024,-0.009,8.0,0.74
+SITE-014-staff-coverage-sprint,SITE-014,Staff coverage sprint,0.02,0.066,0.026,2.3,0.72
+SITE-014-wellness-expansion,SITE-014,Wellness expansion,0.022,0.02,0.041,2.0,0.61
+SITE-015-baseline,SITE-015,Baseline,-0.006,-0.002,-0.005,0.4,0.86
+SITE-015-attendance-push,SITE-015,Attendance push,0.058,0.013,0.016,3.9,0.71
+SITE-015-bi-automation,SITE-015,BI automation,0.025,0.021,-0.01,7.7,0.8
+SITE-015-staff-coverage-sprint,SITE-015,Staff coverage sprint,0.021,0.059,0.03,3.0,0.67
+SITE-015-wellness-expansion,SITE-015,Wellness expansion,0.019,0.011,0.036,0.6,0.72
+SITE-016-baseline,SITE-016,Baseline,0.009,-0.003,0.001,0.5,0.42
+SITE-016-attendance-push,SITE-016,Attendance push,0.056,0.019,0.017,3.9,0.72
+SITE-016-bi-automation,SITE-016,BI automation,0.022,0.015,-0.017,7.6,0.69
+SITE-016-staff-coverage-sprint,SITE-016,Staff coverage sprint,0.024,0.063,0.029,1.8,0.69
+SITE-016-wellness-expansion,SITE-016,Wellness expansion,0.02,0.023,0.04,0.6,0.58
+SITE-017-baseline,SITE-017,Baseline,0.007,0.005,0.004,0,0.93
+SITE-017-attendance-push,SITE-017,Attendance push,0.063,0.02,0.02,2.9,0.69
+SITE-017-bi-automation,SITE-017,BI automation,0.024,0.027,-0.014,6.7,0.67
+SITE-017-staff-coverage-sprint,SITE-017,Staff coverage sprint,0.021,0.068,0.027,1.9,0.66
+SITE-017-wellness-expansion,SITE-017,Wellness expansion,0.026,0.016,0.033,1.9,0.8
+SITE-018-baseline,SITE-018,Baseline,0.006,0.004,-0.001,0,0.72
+SITE-018-attendance-push,SITE-018,Attendance push,0.058,0.008,0.02,3.9,0.65
+SITE-018-bi-automation,SITE-018,BI automation,0.013,0.02,-0.014,8.2,0.76
+SITE-018-staff-coverage-sprint,SITE-018,Staff coverage sprint,0.022,0.065,0.033,2.9,0.79
+SITE-018-wellness-expansion,SITE-018,Wellness expansion,0.029,0.023,0.032,1.5,0.7
+SITE-019-baseline,SITE-019,Baseline,0.005,0.0,-0.002,0,0.81
+SITE-019-attendance-push,SITE-019,Attendance push,0.051,0.008,0.014,4.2,0.63
+SITE-019-bi-automation,SITE-019,BI automation,0.012,0.021,-0.007,8.0,0.77
+SITE-019-staff-coverage-sprint,SITE-019,Staff coverage sprint,0.03,0.064,0.027,2.8,0.71
+SITE-019-wellness-expansion,SITE-019,Wellness expansion,0.02,0.015,0.036,1.7,0.63
+SITE-020-baseline,SITE-020,Baseline,0.0,-0.003,-0.003,0,0.61
+SITE-020-attendance-push,SITE-020,Attendance push,0.055,0.016,0.02,2.9,0.6
+SITE-020-bi-automation,SITE-020,BI automation,0.021,0.026,-0.012,8.3,0.87
+SITE-020-staff-coverage-sprint,SITE-020,Staff coverage sprint,0.032,0.06,0.028,3.0,0.89
+SITE-020-wellness-expansion,SITE-020,Wellness expansion,0.022,0.019,0.029,2.0,0.86
+SITE-021-baseline,SITE-021,Baseline,0.004,-0.001,-0.006,0.7,0.59
+SITE-021-attendance-push,SITE-021,Attendance push,0.059,0.009,0.014,3.7,0.78
+SITE-021-bi-automation,SITE-021,BI automation,0.021,0.024,-0.016,7.6,0.76
+SITE-021-staff-coverage-sprint,SITE-021,Staff coverage sprint,0.027,0.061,0.025,2.6,0.62
+SITE-021-wellness-expansion,SITE-021,Wellness expansion,0.031,0.02,0.037,1.6,0.8
+SITE-022-baseline,SITE-022,Baseline,0.002,0.004,0.0,0,0.69
+SITE-022-attendance-push,SITE-022,Attendance push,0.063,0.014,0.02,4.2,0.81
+SITE-022-bi-automation,SITE-022,BI automation,0.02,0.024,-0.011,7.3,0.61
+SITE-022-staff-coverage-sprint,SITE-022,Staff coverage sprint,0.03,0.067,0.027,1.6,0.77
+SITE-022-wellness-expansion,SITE-022,Wellness expansion,0.028,0.017,0.036,1.4,0.66
+SITE-023-baseline,SITE-023,Baseline,-0.005,-0.005,-0.003,0.5,0.77
+SITE-023-attendance-push,SITE-023,Attendance push,0.056,0.012,0.015,2.7,0.6
+SITE-023-bi-automation,SITE-023,BI automation,0.02,0.023,-0.017,8.4,0.48
+SITE-023-staff-coverage-sprint,SITE-023,Staff coverage sprint,0.033,0.066,0.03,2.8,0.56
+SITE-023-wellness-expansion,SITE-023,Wellness expansion,0.031,0.014,0.038,0.7,0.77
+SITE-024-baseline,SITE-024,Baseline,0.005,0.002,-0.005,0,0.63
+SITE-024-attendance-push,SITE-024,Attendance push,0.057,0.013,0.023,2.6,0.58
+SITE-024-bi-automation,SITE-024,BI automation,0.017,0.024,-0.006,7.9,0.48
+SITE-024-staff-coverage-sprint,SITE-024,Staff coverage sprint,0.032,0.069,0.034,2.9,0.79
+SITE-024-wellness-expansion,SITE-024,Wellness expansion,0.025,0.021,0.029,2.3,0.81
+SITE-025-baseline,SITE-025,Baseline,0.001,0.001,-0.002,0.2,0.94
+SITE-025-attendance-push,SITE-025,Attendance push,0.06,0.02,0.015,2.9,0.67
+SITE-025-bi-automation,SITE-025,BI automation,0.026,0.027,-0.01,7.7,0.61
+SITE-025-staff-coverage-sprint,SITE-025,Staff coverage sprint,0.028,0.063,0.022,1.7,0.7
+SITE-025-wellness-expansion,SITE-025,Wellness expansion,0.03,0.021,0.033,1.4,0.84
+SITE-026-baseline,SITE-026,Baseline,-0.006,-0.002,-0.005,0.5,0.61
+SITE-026-attendance-push,SITE-026,Attendance push,0.05,0.011,0.012,4.2,0.64
+SITE-026-bi-automation,SITE-026,BI automation,0.026,0.018,-0.011,7.8,0.84
+SITE-026-staff-coverage-sprint,SITE-026,Staff coverage sprint,0.029,0.064,0.031,1.6,0.73
+SITE-026-wellness-expansion,SITE-026,Wellness expansion,0.026,0.01,0.033,1.9,0.87
+SITE-027-baseline,SITE-027,Baseline,0.009,-0.0,-0.005,0.5,0.79
+SITE-027-attendance-push,SITE-027,Attendance push,0.055,0.011,0.019,3.3,0.88
+SITE-027-bi-automation,SITE-027,BI automation,0.012,0.014,-0.007,7.9,0.77
+SITE-027-staff-coverage-sprint,SITE-027,Staff coverage sprint,0.032,0.065,0.023,2.4,0.75
+SITE-027-wellness-expansion,SITE-027,Wellness expansion,0.03,0.016,0.037,1.5,0.8
+SITE-028-baseline,SITE-028,Baseline,-0.005,-0.004,0.005,0.2,0.71
+SITE-028-attendance-push,SITE-028,Attendance push,0.06,0.017,0.017,3.6,0.88
+SITE-028-bi-automation,SITE-028,BI automation,0.021,0.015,-0.016,6.9,0.77
+SITE-028-staff-coverage-sprint,SITE-028,Staff coverage sprint,0.026,0.064,0.033,1.8,0.58
+SITE-028-wellness-expansion,SITE-028,Wellness expansion,0.017,0.014,0.037,1.1,0.73

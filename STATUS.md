@@ -1,7 +1,11 @@
 # Status
 
-- Project: Youth Program Transformation Value Dashboard
-- GitHub: https://github.com/Saurav-Kanegaonkar/Youth-Program-Transformation-Value-Dashboard
-- Status: complete
-- Resume Link Ready: Yes
-- Last update: Created to locked pipeline standards with multiple data sources, analysis artifacts, scripts, screenshot, and distinct artifact framing.
+- Status: upgraded through the Portfolio Artifact Upgrade Workflow.
+- Role target: BVT Analyst for a youth enrichment and education program operator.
+- Upgrade focus: education business value transformation, data analysis, SQL controls, Excel/Tableau/Power BI requirement traceability, project-methodology prioritization, and scenario forecasting.
+
+## Verification
+
+- Regenerate data and analysis: `npm run analyze`
+- Serve locally: `npm start`
+- Open: `http://localhost:4173`
